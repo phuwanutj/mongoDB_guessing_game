@@ -1,1 +1,1 @@
-# MongoDb Guessing Game
+# MongoDB Guessing Game
