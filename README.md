@@ -3,17 +3,17 @@
 1. Create a collection on word_guess inside a database called pantip.
 2. Create a document like this.
 
-{
-  _id: ObjectID()
-  char1: ''
-  char2: ''
-  char3: ''
-  char4: ''
-  word_index: 0
-  turn_count: 0
-  flag: 0
-  answer_index: 0
-  answer: ['','','','']
+{ <br/>
+  _id: ObjectID() <br/>
+  char1: ''  <br/>
+  char2: '' <br/>
+  char3: ''<br/>
+  char4: ''<br/>
+  word_index: 0<br/>
+  turn_count: 0<br/>
+  flag: 0<br/>
+  answer_index: 0<br/>
+  answer: ['','','','']<br/>
 } 
 
 3. Run the application on localhost.
